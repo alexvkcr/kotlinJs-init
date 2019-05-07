@@ -1,0 +1,1 @@
+# kotlinJs-init
